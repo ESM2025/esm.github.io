@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://esm2025.github.io/ESM_2025_Rennes_last.pdf</loc>
+  <priority>1.0</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://esm2025.github.io/docs/Word_Template.docx</loc>
+  <priority>1.0</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://esm2025.github.io/Latex_Template2.zip</loc>
+  <priority>1.0</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://esm2025.github.io/</loc>
+  <priority>1.0</priority>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>
