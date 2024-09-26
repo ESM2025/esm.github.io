@@ -1,4 +1,4 @@
-User-agent: *
+User-agent: ESM
 Disallow:
 
 Sitemap: https://esm2025.github.io/esm.github.io/sitemap.xml
